@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Meal App",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a meal app using vanilla JavaScript to search, store, and manage favorite meals with TheMeal API integration.",
+      "skills": ["Javascript", "HTML", "CSS"],
+      "demo": "https://ganeshpbharadwaj.github.io/Meal_app/",
+      "source": "https://github.com/GaneshPBharadwaj/Meal_app"
+    },
+    {
+      "title": "Authentication System",
+      "imageSrc": "projects/project.png",
+      "description": "Created a secure system with email and Google login, password encryption, and reset functionalities.",
+      "skills": ["Node", "MongoDB", "Express", "EJS"],
+      "demo": "https://nodejs-authentication-ausu.onrender.com/",
+      "source": "https://github.com/GaneshPBharadwaj/Nodejs-Authentication"
+    },
+    {
+      "title": "Issue Tracker",
+      "imageSrc": "projects/project.png",
+      "description": "Built a Node.js and EJS app for tracking bugs with project management, issue creation, and filtering features.",
+      "skills": ["Node", "MongoDB", "Express", "EJS"],
+      "demo": "https://issue-tracker-ksrx.onrender.com/",
+      "source": "https://github.com/GaneshPBharadwaj/Issue-Tracker"
+    },
+    {
+      "title": "Hospital API",
+      "imageSrc": "projects/project.png",
+      "description": "Node.js and MongoDB API for hospital management with doctor login, patient registration and secure report creation.",
+      "skills": ["Node", "MongoDB", "Express"],
+      "demo": "https://hospital-api-maex.onrender.com/",
+      "source": "https://github.com/GaneshPBharadwaj/Hospital-API"
+    }
+  ]

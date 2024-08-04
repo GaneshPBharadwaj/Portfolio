@@ -1,0 +1,14 @@
+[
+    {
+      "role": "Junior Engineer",
+      "organisation": "Intelizign",
+      "startDate": "Dec, 2021",
+      "endDate": "Feb, 2024",
+      "experiences": ["Documented Daimler Trucks' electrical systems for an Electrical Wiring Harness project.",
+       "Extracted and transformed primary connection data using EZ wiring and IMAC platforms.",
+      "Automated data processing with Python-based Excel macros to improve documentation efficiency.", 
+      "Rendered Daimler truck connections into 2D formats using customized tools.",
+    "Maintained and optimized Excel reports to streamline team workflows and daily work assignments."],
+      "imageSrc": "history/intelizign.png"
+    }
+  ]
