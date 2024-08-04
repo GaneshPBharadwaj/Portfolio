@@ -17,7 +17,7 @@ This project was built using these technologies.
 ## 🛠 Installation and Setup Instructions
 Installation: ```bash npm install```
 
-In the project directory, you can run: npm start
+In the project directory, you can run: npm run dev
 
 Runs the app in the development mode.
 
