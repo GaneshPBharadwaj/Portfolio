@@ -1,5 +1,21 @@
 [
     {
+      "title": "Chat App",
+      "imageSrc": "projects/project.png",
+      "description": "Built a full-stack chat app with React, Firebase, Zustand, featuring authentication, real-time chat, uploads.",
+      "skills": ["React", "Firebase", "Javascript"],
+      "demo": "https://chat0app1.netlify.app/",
+      "source": "https://github.com/GaneshPBharadwaj/Chat-App"
+    },
+    {
+      "title": "Contact App",
+      "imageSrc": "projects/project.png",
+      "description": "Contact App is a web application that allows you to manage like add, edit and delete contacts using this application.",
+      "skills": ["React", "Redux", "Javascript"],
+      "demo": "https://contactapp010.netlify.app/",
+      "source": "https://github.com/GaneshPBharadwaj/Contact-App"
+    },
+    {
       "title": "Meal App",
       "imageSrc": "projects/project.png",
       "description": "Developed a meal app using vanilla JavaScript to search, store, and manage favorite meals with TheMeal API integration.",
