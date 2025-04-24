@@ -1,5 +1,13 @@
 [
     {
+      "title": "Job Trackr",
+      "imageSrc": "projects/project.png",
+      "description": "MERN stack job tracker for managing applications, interviews, contacts, and tracking progress.",
+      "skills": ["React", "Express", "Mongo DB", "Node.js"],
+      "demo": "https://job-trackr-frontend.onrender.com",
+      "source": "https://github.com/GaneshPBharadwaj/Job-Trackr"
+    },
+    {
       "title": "Chat App",
       "imageSrc": "projects/project.png",
       "description": "Built a full-stack chat app with React, Firebase, Zustand, featuring authentication, real-time chat, uploads.",
